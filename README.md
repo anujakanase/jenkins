@@ -1,8 +1,11 @@
 Jenkins is an open-source popular CI/CD tool used to automate the pipeline.
 
 It Automate various parts of software development.
+
 .Building
+
 .Testing
+
 .Deploying
 
 * What is CI/CD?
